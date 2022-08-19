@@ -1,0 +1,19 @@
+button{
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(73, 15, 15);
+    color: blueviolet;
+    padding: 30px;
+    border-color: blue;
+}
+.data-1{
+    position: fixed;
+    left: 800px;
+    top: 100px;
+}
+
+.data-2{
+    position: fixed;
+    top: 200px;
+    left: 100px;
+}

@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    margin-left: 150px; 
+    margin-top: 50px;  
+}
+
+.para{
+    margin-top: 100px;
+    font-display: 1rem;
+}
+
+input[type=text]{
+border-radius: 1rem;
+padding:10px  50px ;
+position: fixed;
+border-color: red;
+z-index: 10px;
+pointer-events: visible;
+
+}
+a{
+    text-decoration-line: none;
+    font-weight: lighter;
+    
+}
+
+p{
+    color: red;
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
